@@ -10,4 +10,4 @@ Online Flight Tickets Booking System developed using ASP.NET and SQL server.
 <!-- /wp:list -->
 
 Download source code:
-https://www.studentprojectguide.com/asp-net/online-flight-tickets-booking-system/
+https://www.studentprojects.live/asp-net-projects/asp-net-online-airticket-reservation-system/
